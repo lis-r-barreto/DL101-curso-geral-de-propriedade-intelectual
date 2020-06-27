@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="293" src="https://github.com/lis-r-barreto/DL101-curso-geral-de-propriedade-intelectual/blob/master/WIPO-DL101.png">
+  <img width="1000" height="243" src="https://github.com/lis-r-barreto/DL101-curso-geral-de-propriedade-intelectual/blob/master/cover.png">
 </p>
 
 
@@ -7,3 +7,7 @@ Olá, meu nome é <b>Lis Barreto</b> e este é o meu repositório contendo solu�
 
 
 Este curso abrange os aspectos fundamentais de propriedade intelectual, incluindo a legislação e estudos de caso brasileiros. O conteúdo nacional foi desenvolvido por especialistas do INPI. Os temas apresentados são: direitos autorais, patentes, marcas, indicações geográficas, desenhos industriais, proteção de novas variedades vegetais/cultivares, concorrência desleal, informação tecnológica, contratos de tecnologia e tratados internacionais.
+
+<p align="center">
+  <img width="826" height="1169" src="https://github.com/lis-r-barreto/DL101-curso-geral-de-propriedade-intelectual/blob/master/certificado.png">
+</p>
